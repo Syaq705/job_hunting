@@ -10,7 +10,6 @@
 https://www.megahouse.co.jp/megatoy/products/item/3764/
 <br>
 <br>
-<br>
 
 ## フォルダ構成
 <br>
@@ -29,12 +28,25 @@ cube<br>
 | プラットフォーム  | Anaconda  |
 | 外部ライブラリ  | NumPy  |
 <br>
+<br>
 
 ## 機能
 <br>
 ・自動シャッフル<br>
 ・持ち替え<br>
 ・一面回転<br>
+<br>
+<br>
+
+## 遊び方
+<br>
+①　2x2_cube.pyを実行する<br>
+②　コンソール上にルービックキューブが表示される<br>
+③　『mix』を入力しEnterを押す<br>
+④　混ぜる回数を問われるので適当な数字を入力しEnterを押す<br>
+⑤　動かしたい回転面のコマンドを入力しEnterを押す<br>
+⑥　⑤を繰り返す<br>
+⑦　終了の際は『end』を入力しEnterを押す<br>
 <br>
 <br>
 
