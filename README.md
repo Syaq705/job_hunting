@@ -5,19 +5,21 @@
 自動で混ぜる機能を搭載しています。<br>
 ルービックキューブに関しては下記のURLをご参照ください。<br>
 <br>
-#### 株式会社メガハウス ルービックキューブ 2×2 ver.3.0
+
+#### 株式会社メガハウス
 https://www.megahouse.co.jp/megatoy/products/item/3764/
 <br>
 <br>
 <br>
+
 ## フォルダ構成
 <br>
 cube<br>
 　2x2_cube.py　：　メインファイル<br>
 　rotate.py　　：　回転用モジュール<br>
-　readme.txt　 ：　本ファイル<br>
 <br>
 <br>
+
 ## 環境
 <br>
 OS     　　　      : Windows<br>
@@ -27,7 +29,6 @@ OS     　　　      : Windows<br>
 <br>
 <br>
 
-
 ## 機能
 <br>
 ・自動シャッフル<br>
@@ -35,6 +36,7 @@ OS     　　　      : Windows<br>
 ・一面回転<br>
 <br>
 <br>
+
 ## 作成背景
 <br>
 前職でWebスクレイピングの際にPythonに出会いほぼ独学で習得したため、<br>
@@ -43,3 +45,4 @@ OS     　　　      : Windows<br>
 職業訓練校の最後には簡単なゲーム制作という課題があるため、<br>
 演習の残り時間や休憩時間などを利用して作成しました。<br>
 
+### ポイント
