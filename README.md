@@ -15,7 +15,7 @@ https://www.megahouse.co.jp/megatoy/products/item/3764/
 <br>
 cube<br>
 　2x2_cube.py　：　メインファイル<br>
-　rotate.py　　：　回転用モジュール<br>
+　rotate.py　　　：　回転用モジュール<br>
 <br>
 <br>
 
